@@ -90,7 +90,7 @@ jupyter notebook Proyecto.ipynb
 - Model/model.pkl: modelo de regresión lineal entrenado
 
 ---
-💬 Créditos
+## 💬 Créditos
 
 Proyecto desarrollado para análisis de calidad del aire con enfoque en PM2.5 en Tamaulipas, México.
 Ideal para visualización, predicción y toma de decisiones en políticas ambientales.
