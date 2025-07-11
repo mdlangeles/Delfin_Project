@@ -28,7 +28,7 @@ DELFIN_PROJECT/
 ## ¿Qué hace este proyecto?
 🔹 Limpia y unifica datos de calidad del aire
 
-🔹 Imputa valores nulos con Random Hot Deck
+🔹 Imputa en valores nulos con Random Hot Deck
 
 🔹 Remueve outliers con IQR
 
